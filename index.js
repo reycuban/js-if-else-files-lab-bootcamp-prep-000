@@ -1,7 +1,7 @@
 var name = "Susan"
 var height = "70"
 
-var index2 = require("./tests.js")
+var index = require("./tests.js")
 
 
 
